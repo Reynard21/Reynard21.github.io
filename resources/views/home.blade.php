@@ -41,7 +41,7 @@
 
         <img src="https://i.postimg.cc/kXyFvvRD/PAUD-Dahlia.png" alt="Paud Dahlia">
         <div class="centered-text">Selamat Datang
-            <div class="additional-text">SPS Pinang Dahlia Griya</div>
+            <div class="additional-text">SPS Dahlia Pinang Griya</div>
         </div>
     </div>
     </div>
