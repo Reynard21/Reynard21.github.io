@@ -13,7 +13,8 @@
 <nav>
     <div class="container mx-auto px-8 py-4 flex items-center justify-between">
         <div class="flex items-center">
-        <img src="https://i.ibb.co.com/gzy8ZK1/logo-dahlia-JPG-removebg-preview.png" alt="logo-dahlia-JPG-removebg-preview"  class="h-30 w-25 mr-9">
+
+        <img src="https://s6.imgcdn.dev/mDEt0.png" alt="mDEt0.png"  class="h-30 w-25 mr-9">
             <span class="text-black font-semibold text-lg">SPS DAHLIA PINANG GRIYA</span>
         </div>
 
@@ -23,9 +24,9 @@
         <button type="button" onclick="window.location.href='/'">HOME</button>
   <button type="button" class=" dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">GALLERY</button>
   <button type="button" onclick="window.location.href='/aboutus'">ABOUT US</a>
-  <button type="button" onclick="window.location.href='/ppdb'">PPDB</a>
-  <button type="button" onclick="window.location.href='/login'">LOGIN</a>
-    <ul class="dropdown-menu">
+  <button type="button" onclick="window.location.href='/form'">PPDB</a>
+  <button type="button" onclick="window.location.href='/admin'">LOGIN</a>
+  <ul class="dropdown-menu">
       <li><a class="dropdown-item" href="/aktivitasanak">Aktivitas Anak - Anak</a></li>
       <li><a class="dropdown-item" href="/kegiatanguru">Kegiatan Guru</a></li>
       <li><a class="dropdown-item" href="/puncaktema">Puncak Tema</a></li>
@@ -36,7 +37,11 @@
 </nav>
 
 <div class="photo-section">
-        <div class="photo-placeholder">FOTO</div>
+        <div class="photo-placeholder">
+<img src="https://i.postimg.cc/XYRzTgx3/gambar1.png" style="border-radius: 50%; border: 2px solid #ccc " alt="Profile Pic">
+
+        </div>
+
     </div>
 <br>
 <br>
@@ -101,17 +106,17 @@ Menyediakan berbagai program dan kegiatan ekstrakurikuler yang mendukung minat d
     <footer>
   <div class="footer-container">
     <div class="logo">
-      <img src="https://i.ibb.co.com/gzy8ZK1/logo-dahlia-JPG-removebg-preview.png" alt="logo-dahlia-JPG-removebg-preview">
+    <img src="https://s6.imgcdn.dev/mDEt0.png" alt="mDEt0.png">
     </div>
 
     <div class="nav">
         <div class="school">
-    <p>SPS DAHLIA PINANG GRIYA </p>
+    <p><b>SPS DAHLIA PINANG GRIYA </b></p>
     </div>
       <a href="/">Home</a>
       <a href="#">Gallery</a>
       <a href="/aboutus">About Us</a>
-      <a href="/ppdb">PPDB</a>
+      <a href="/form">PPDB</a>
     </div>
     <div class="location">
       <h3><b>LOCATION</b></h3>
